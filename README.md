@@ -16,3 +16,12 @@ Avis aux collaborateurs du projet:
 1.Si vous travaillez sur le projet et que vous avez accès aux données que vous avons utilisées, prenez garde à ce que vos csv soient contenus dans le répertoire data.
 
 2. L'environnement virtuel que nous avons construit s'appelle ml_env. Tous les packages utilisés sont disponibles dans requirements.txt et ml_env est placé dans le gitignore pour ne pas avoir à en faire le suivi. Pour ne pas avoir de soucis, n'hésitez pas à utiliser le même nom d'environnement virtuel.
+
+
+Pour le professeur du module: 
+Notre groupe est constitué de :
+LE BOEDEC Morgane
+LEBAZ Antoni
+LONNE Quentin
+FORTE Theodore
+AGBOZOH Ryan
