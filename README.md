@@ -8,3 +8,5 @@ Pour réaliser ce modèle, l'équipe ML Bank a reçu  le jeu de données suivant
     • un historique de prêts ;
     • un historique d’informations financières ;
     • des informations sur le comportement des emprunteurs (si l’emprunteur a fait défaut ou pas).
+
+Si vous travaillez sur le projet et que vous avez accès aux données que vous avons utilisées, prenez garde à ce que vos csv soient contenus dans le répertoire data.
