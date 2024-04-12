@@ -17,6 +17,7 @@ Avis aux collaborateurs du projet:
 
 2. L'environnement virtuel que nous avons construit s'appelle ml_env. Tous les packages utilisés sont disponibles dans requirements.txt et ml_env est placé dans le gitignore pour ne pas avoir à en faire le suivi. Pour ne pas avoir de soucis, n'hésitez pas à utiliser le même nom d'environnement virtuel.
 
+3. Pour ne pas avoir à stocker le modèle dans ce repo, vous pouvez le générer à l'aide du script model.py
 
 Pour le professeur du module: 
 Notre groupe est constitué de :
