@@ -18,7 +18,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, precision_score, r
 from sklearn.model_selection import RandomizedSearchCV, train_test_split
 from scipy.stats import randint
 
-df = pd.read_csv("output/training_dataset.csv")
+df = pd.read_csv("training_dataset.csv")
 df = df.drop(['Unnamed: 0', 'index','SK_ID_CURR'], axis=1)
 
 # Prétraitement pour les variables numériques
